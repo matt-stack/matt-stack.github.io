@@ -19,7 +19,7 @@ Projects
   
   BioFVM is a ...
   
-  (/images/0001.jpg)
+(images/0001.jpg)
   
   * **VIP-HPC SPEC2020**
   blah blah
