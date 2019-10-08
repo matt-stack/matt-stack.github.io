@@ -24,7 +24,7 @@ Fun Facts
   
   *Quiet: The Power of Introverts in a World That Can't Stop Talking, Susan Cain
   
-<img src ="matt-stack.github.io/images/quiet.jpg">
+<img src ="matt-stack.github.io/images/0001.jpg">
   
   *The Sixth Extinction: An Unnatural History, Elizabeth Kolbert
   
