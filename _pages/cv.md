@@ -23,11 +23,14 @@ Fun Facts
   Fav Books
   
   *Quiet: The Power of Introverts in a World That Can't Stop Talking, Susan Cain
-  <img src ="matt-stack.github.io/images/quiet.jpg">
+  
+<img src ="matt-stack.github.io/images/quiet.jpg">
   
   *The Sixth Extinction: An Unnatural History, Elizabeth Kolbert
-  <img src ="matt-stack.github.io/images/extinction.jpg">
+  
+<img src ="matt-stack.github.io/images/extinction.jpg">
   
   *Becoming, Michelle Obama
-  <img src ="matt-stack.github.io/images/becoming.jpg">
+  
+<img src ="matt-stack.github.io/images/becoming.jpg">
 
