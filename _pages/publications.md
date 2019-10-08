@@ -13,10 +13,12 @@ Projects
   
   BioFVM is a ...
   
-  ![poster](images/0001.jpg)
+<img src ="matt-stack.github.io/images/0001.jpg">
   
   * **VIP-HPC**
   blah blah
+  
+<img src ="matt-stack.github.io/images/SPEC_PEARC19.pptx.jpg">
   
   
   * **EsturaryVille**
