@@ -12,7 +12,7 @@ Hello! I am currently a Computer Science undergraduate at the University of Dela
 
 Projects
 ======
-  **ACC-BioFVM**
+  * **ACC-BioFVM**
   Acclerating an open source Fintie Volume MEthod for Biological Problems on GPUs
   Dr. Sunita Chandrasekaran, Dr Paul Macklin
   
@@ -20,11 +20,11 @@ Projects
   
   [poster]
   
-  **VIP-HPC**
+  * **VIP-HPC**
   blah blah
   
   
-  **EsturaryVille**
+  * **EsturaryVille**
   software engineering with agile
   
   [video]
