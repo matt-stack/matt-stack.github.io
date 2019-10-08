@@ -12,5 +12,36 @@ Hello! I am currently a Computer Science undergraduate at the University of Dela
 
 Projects
 ======
+  **ACC-BioFVM**
+  Acclerating an open source Fintie Volume MEthod for Biological Problems on GPUs
+  Dr. Sunita Chandrasekaran, Dr Paul Macklin
+  
+  BioFVM is a ...
+  
+  [poster]
+  
+  **VIP-HPC**
+  blah blah
+  
+  
+  **EsturaryVille**
+  software engineering with agile
+  
+  [video]
+  
+  See my GitHub for course work
+  
+  Education
+  ======
+  
+  B.S. in Computer Science, University of Delaware, 2020 (expected)
+  
+  Fun Facts
+  ======
+  Rock climber on the Competative Rock Climbing Team at UD
+  
+  [picture]
 
-
+  Avid Backpacker 
+  
+  [picture]
