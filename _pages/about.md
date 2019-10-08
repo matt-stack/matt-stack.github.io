@@ -53,15 +53,15 @@ Fun Facts
   
   *Quiet: The Power of Introverts in a World That Can't Stop Talking, Susan Cain
   
-<img src ="matt-stack.github.io/images/0001.jpg">
+<img src ="matt-stack.github.io/images/quiet.jpg" width="200" height="40">
   
   *The Sixth Extinction: An Unnatural History, Elizabeth Kolbert
   
-<img src ="matt-stack.github.io/images/extinction.jpg">
+<img src ="matt-stack.github.io/images/extinction.jpg" width="200" height="40">
   
   *Becoming, Michelle Obama
   
-<img src ="matt-stack.github.io/images/becoming.jpg">
+<img src ="matt-stack.github.io/images/becoming.jpg" width="200" height="40">
 
   
   
