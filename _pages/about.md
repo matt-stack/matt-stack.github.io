@@ -36,12 +36,3 @@ Projects
   
   B.S. in Computer Science, University of Delaware, 2020 (expected)
   
-  Fun Facts
-  ======
-  Rock climber on the Competative Rock Climbing Team at UD
-  
-  [picture]
-
-  Avid Backpacker 
-  
-  [picture]
