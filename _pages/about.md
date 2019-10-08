@@ -19,7 +19,7 @@ Projects
   
   BioFVM is a ...
   
-  (images/0001.jpg)
+  (https://github.com/matt-stack/matt-stack.github.io/blob/master/images/0001.jpg)
   
   * **VIP-HPC SPEC2020**
   blah blah
