@@ -18,7 +18,7 @@ Projects
   
   BioFVM is a ...
   
-  (images/0001.jpg)
+  ![poster](images/0001.jpg)
   
   * **VIP-HPC**
   blah blah
