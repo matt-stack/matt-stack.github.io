@@ -19,4 +19,12 @@ Fun Facts
   Avid Backpacker 
   
   [picture]
+  
+  Fav Books
+  
+  <img src ="matt-stack.github.io/images/quiet.jpg">
+  
+  <img src ="matt-stack.github.io/images/extinction.jpg">
+  
+  <img src ="matt-stack.github.io/images/becoming.jpg">
 
