@@ -21,7 +21,7 @@ Projects
   
 <img src ="matt-stack.github.io/images/0001.jpg">
 
-<img src ="matt-stack.github.io/images/extinction.jpg">
+<img src ="matt-stack.github.io/images/extinction.jpg" width="200" height="40">
   
   * **VIP-HPC SPEC2020**
   blah blah
