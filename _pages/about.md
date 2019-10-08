@@ -35,8 +35,8 @@ Projects
   
   See my GitHub for course work
   
-  Education
-  ======
+Education
+======
   
   B.S. in Computer Science, University of Delaware, 2020 (expected)
   
