@@ -19,7 +19,7 @@ Projects
   
   BioFVM is a ...
   
-<img src ="matt-stack.github.io/images/0001.jpg">
+<img src ="matt-stack.github.io/images/0001.jpg" width="100" height="20">
 
 <img src ="matt-stack.github.io/images/extinction.jpg" width="100" height="20">
   
