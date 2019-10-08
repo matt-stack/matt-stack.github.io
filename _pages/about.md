@@ -20,8 +20,6 @@ Projects
   BioFVM is a ...
   
 <img src ="matt-stack.github.io/images/0001.jpg" width="100" height="20">
-
-<img src ="matt-stack.github.io/images/extinction.jpg" width="100" height="20">
   
   * **VIP-HPC SPEC2020**
   Ranking Supercomputers using SPEC HPG Benchmarks
@@ -41,8 +39,9 @@ Projects
   
   See my GitHub for course work
   
-Education
-======
+  * **Fun Facts**
   
-  B.S. in Computer Science, University of Delaware, 2020 (expected)
+  <img src ="matt-stack.github.io/images/extinction.jpg" width="100" height="20">
+  Extinction 
+  
   
