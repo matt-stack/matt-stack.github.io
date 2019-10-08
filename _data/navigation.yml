@@ -3,6 +3,9 @@ main:
   - title: "Projects"
     url: /publications/
     
+  - title: "Blog"
+    url: /CV/
+    
   - title: "Fun Facts"
     url: /funfacts/
 
