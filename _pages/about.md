@@ -14,13 +14,17 @@ Projects
 ======
   * **ACC-BioFVM**
   Acclerating an open source Fintie Volume MEthod for Biological Problems on GPUs
-  Dr. Sunita Chandrasekaran, Dr Paul Macklin
+  - Dr. Sunita Chandrasekaran, Dr Paul Macklin
+  - this is a new line
   
   BioFVM is a ...
   
-  ![poster](images/0001.jpg)
+  (images/0001.jpg)
   
-  * **VIP-HPC**
+  * **VIP-HPC SPEC2020**
+  blah blah
+  
+  * **Classification Tree Educational Tool**
   blah blah
   
   
