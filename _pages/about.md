@@ -19,14 +19,14 @@ Projects
   
   BioFVM is a ...
   
-<img src ="matt-stack.github.io/images/0001.jpg" width="100" height="20">
+<img src ="matt-stack.github.io/images/0001.jpg" width="1000" height="200">
   
   * **VIP-HPC SPEC2020**
   Ranking Supercomputers using SPEC HPG Benchmarks
   - Dr. Sunita Chandrasekarana, Dr Rudolf Eigenmann
   - this is a line
   
-  <img src ="matt-stack.github.io/images/SPEC_PEARC19.pptx.jpg" width="100" height="20">
+  <img src ="matt-stack.github.io/images/SPEC_PEARC19.pptx.jpg" width="1000" height="200">
   
   * **Classification Tree Educational Tool**
   blah blah
