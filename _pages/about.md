@@ -15,7 +15,8 @@ Projects
   * **ACC-BioFVM**
   
   Acclerating an open source Fintie Volume Method for Biological Problems on GPUs
-  - Dr. Sunita Chandrasekaran, Dr Paul Macklin -
+  
+  Dr. Sunita Chandrasekaran, Dr Paul Macklin
   
   BioFVM is a tool from Dr Paul Macklin for scientists to model cellular environments and how they react to single or multiple substrates. The projects goal 
   
@@ -24,8 +25,10 @@ Projects
   * **VIP-HPC SPEC2020**
   
   Ranking Supercomputers using SPEC HPG Benchmarks
-  - Dr. Sunita Chandrasekarana, Dr Rudolf Eigenmann
-  - this is a line
+  
+  Dr. Sunita Chandrasekarana, Dr Rudolf Eigenmann
+
+  Ranking supercomputers by new metrics, SPEC2020 bencmarks
   
   <img src ="matt-stack.github.io/images/SPEC_PEARC19.pptx.jpg" width="500" height="100">
   
@@ -33,24 +36,28 @@ Projects
   
   blah blah
   
+  <video src="matt-stack.github.io/images/Cisc374.Fianl Video.mp4" width="320" height="200" controls preload></video>
   
-  * **EsturaryVille** *
+  
+  * **EsturaryVille**
   
   software engineering with agile
   
-  [video]
-  
+<img src ="matt-stack.github.io/images/Scientist_gif.gif" width="200" height="40">
+<img src ="matt-stack.github.io/images/blue-heron_gif.gif" width="200" height="40">
+<img src ="matt-stack.github.io/images/flounder_gif.gif" width="200" height="40">
+
   See my GitHub for course work
   
 Fun Facts
 ======
   Rock climber on the Competative Rock Climbing Team at UD
   
-  [picture]
+<img src ="matt-stack.github.io/images/bouldering.jpg" width="400" height="80">
 
   Avid Backpacker 
   
-  [picture]
+<img src ="matt-stack.github.io/images/backpacking.jpg" width="400" height="80">
   
   Fav Books
   
