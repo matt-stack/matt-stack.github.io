@@ -12,7 +12,8 @@ Hello! I am currently a Computer Science undergraduate at the University of Dela
 
 Projects
 ======
-  * **ACC-BioFVM**
+  * **ACC-BioFVM** *
+  
   Acclerating an open source Fintie Volume MEthod for Biological Problems on GPUs
   - Dr. Sunita Chandrasekaran, Dr Paul Macklin
   - this is a new line
@@ -21,7 +22,8 @@ Projects
   
 <img src ="matt-stack.github.io/images/0001.jpg" width="500" height="100">
   
-  * **VIP-HPC SPEC2020**
+  * **VIP-HPC SPEC2020** *
+  
   Ranking Supercomputers using SPEC HPG Benchmarks
   - Dr. Sunita Chandrasekarana, Dr Rudolf Eigenmann
   - this is a line
@@ -29,10 +31,12 @@ Projects
   <img src ="matt-stack.github.io/images/SPEC_PEARC19.pptx.jpg" width="500" height="100">
   
   * **Classification Tree Educational Tool**
+  
   blah blah
   
   
-  * **EsturaryVille**
+  * **EsturaryVille** *
+  
   software engineering with agile
   
   [video]
@@ -51,15 +55,15 @@ Fun Facts
   
   Fav Books
   
-  *Quiet: The Power of Introverts in a World That Can't Stop Talking, Susan Cain
+  * Quiet: The Power of Introverts in a World That Can't Stop Talking, Susan Cain
   
 <img src ="matt-stack.github.io/images/quiet.jpg" width="100" height="20">
   
-  *The Sixth Extinction: An Unnatural History, Elizabeth Kolbert
+  * The Sixth Extinction: An Unnatural History, Elizabeth Kolbert
   
 <img src ="matt-stack.github.io/images/extinction.jpg" width="100" height="20">
   
-  *Becoming, Michelle Obama
+  * Becoming, Michelle Obama
   
 <img src ="matt-stack.github.io/images/becoming.jpg" width="100" height="20">
 
