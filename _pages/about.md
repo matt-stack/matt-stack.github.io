@@ -8,21 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am currently a Computer Science undergraduate at the University of Delaware and I am working in the Computational Research and Programming Lab! I am student to all things computer science, but I have found an affinity for High Performance Computing. I strive to one day be able to work with High Performance Computing in the field of animation and rendering! For more info about UDel's CRPL https://crpl.cis.udel.edu/
+Hello! I am currently a Computer Science undergraduate at the University of Delaware and I am working in the Computational Research and Programming Lab! I am student to all things computer science, but I have found an affinity for High Performance Computing. I strive to one day be able to work with high performance computing in the field of animation and rendering! For more info about UDel's CRPL ("https://crpl.cis.udel.edu/")
 
 Projects
 ======
-  * **ACC-BioFVM** *
+  * **ACC-BioFVM**
   
-  Acclerating an open source Fintie Volume MEthod for Biological Problems on GPUs
-  - Dr. Sunita Chandrasekaran, Dr Paul Macklin
-  - this is a new line
+  Acclerating an open source Fintie Volume Method for Biological Problems on GPUs
+  - Dr. Sunita Chandrasekaran, Dr Paul Macklin -
   
-  BioFVM is a ...
+  BioFVM is a tool from Dr Paul Macklin for scientists to model cellular environments and how they react to single or multiple substrates. The projects goal 
   
 <img src ="matt-stack.github.io/images/0001.jpg" width="500" height="100">
   
-  * **VIP-HPC SPEC2020** *
+  * **VIP-HPC SPEC2020**
   
   Ranking Supercomputers using SPEC HPG Benchmarks
   - Dr. Sunita Chandrasekarana, Dr Rudolf Eigenmann
