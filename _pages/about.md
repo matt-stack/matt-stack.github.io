@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am currently a Computer Science undergraduate at the University of Delaware and I am working in the Computational Research and Programming Lab! I am student to all things computer science, but I have found an affinity for High Performance Computing. I strive to one day be able to work with high performance computing in the field of animation and rendering! For more info about UDel's CRPL ("https://crpl.cis.udel.edu/")
+Hello! I am currently a Computer Science undergraduate at the University of Delaware and I am working in the Computational Research and Programming Lab! I am student to all things computer science, but I have found an affinity for High Performance Computing. I strive to one day be able to work with high performance computing in the field of animation and rendering! For more info about UDel's [CRPL!]("https://crpl.cis.udel.edu/")
 
 Projects
 ======
@@ -18,7 +18,7 @@ Projects
   
   Dr. Sunita Chandrasekaran, Dr Paul Macklin
   
-  BioFVM is a tool from Dr Paul Macklin for scientists to model cellular environments and how they react to single or multiple substrates. The projects goal 
+  BioFVM is a tool from Dr Paul Macklin for scientists to model cellular environments and how they react to single or multiple substrates. Currently BioFVM is parallelized by OpenMP for CPU. My projects goal is to take the code to the GPU with OpenACC to unlock new expansive possiblities for Dr Macklin's mathematical models. I started this project in May of 2018 as a UDel Summer Scholar (research internship position at the university), and am continuing as an Independent Study under the advisement of Dr. Chandrasekaran. I have taken a Parallel Computing class and loved the work I did there, but this was my first real world project! The [Blog] page explores the development of the acceleration project from the start of the process to now!
   
 <img src ="matt-stack.github.io/images/0001.jpg" width="500" height="100">
   
@@ -34,28 +34,28 @@ Projects
   
   * **Classification Tree Educational Tool**
   
-  blah blah
+  The Classification Tree Educational Tool was developed by my education game development group during my study abroad in Christchurch New Zealand. We were tasked by New Zealand's own computer science education genius Dr Tim Bell to create a simple game to convey a complex computer science concept for a grade school level. My group created a game to explain the general idea of a decision tree and incorporated easy to follow instructions and visuals. We learned how to develop in Unity and created this game in less than one month. Check out the GitHub [here]!
   
-  <video src="matt-stack.github.io/images/Cisc374.Fianl Video.mp4" width="320" height="200" controls preload></video>
+  <img src ="matt-stack.github.io/images/classification_gif.gif" width="500" height="100">
   
   
   * **EsturaryVille**
   
-  software engineering with agile
+  EsturaryVille is a java game created by my software engineering group for our client the Delaware National Estuarine Research Reserve (DNERR). The goal was to create a friendly game that could be deployed at the vistor center on tablets for grade school kids that would draw their attention and sneakily teach them about the importance of esturaries! We developed 3 esturary-based minigames and an overworld to navigate to the games. Along with the research minigame, I created all the elements for every game from scratch. A few of these animated elements can be seen below. I love animation but have never worked in 2d sprites let alone animating sprite sheets. Thankfully the internet is a wonderful place for induldging technical passions and learning from scratch. Check out the GitHub for the game [here]!
   
 <img src ="matt-stack.github.io/images/Scientist_gif.gif" width="200" height="40">
 <img src ="matt-stack.github.io/images/blue-heron_gif.gif" width="200" height="40">
 <img src ="matt-stack.github.io/images/flounder_gif.gif" width="200" height="40">
 
-  See my GitHub for course work
+  See my [GitHub] for all other course work
   
 Fun Facts
 ======
-  Rock climber on the Competative Rock Climbing Team at UD
+  I am a rock climber on the Competative Rock Climbing Team at UDel and I love to boulder every chance I get!
   
 <img src ="matt-stack.github.io/images/bouldering.jpg" width="400" height="80">
 
-  Avid Backpacker 
+  I am an experienced backpacker and longtime member of Udel's Outing Club. I love planning trips and exploring the natural world in such a initmate way!
   
 <img src ="matt-stack.github.io/images/backpacking.jpg" width="400" height="80">
   
@@ -63,13 +63,19 @@ Fun Facts
   
   * Quiet: The Power of Introverts in a World That Can't Stop Talking, Susan Cain
   
+  The lessons in this book a massive impact on my life I wish I had read it earlier. As an introvert, very few people will tell you it is okay to be quiet. My favorite quote is "Sometimes introverted kids are made to feel freaky for the force of these passions, when in fact studies show that this is the sort of intensity is a prerequisite to talent development".
+  
 <img src ="matt-stack.github.io/images/quiet.jpg" width="100" height="20">
   
   * The Sixth Extinction: An Unnatural History, Elizabeth Kolbert
   
+  I read this book during my study abroad in New Zealand and it was absolutely fascinating to see some of the elements from the book in person. I went to a Moa exhibit and looked out at one of the few remain kiwi left in our world, and saw bones of giant Moa driven to extiniction by human hands.
+  
 <img src ="matt-stack.github.io/images/extinction.jpg" width="100" height="20">
   
   * Becoming, Michelle Obama
+  
+  This book opened my eyes to another life. My all time favorite quote from this book is "I had nothing or I had everything. It depends in which way you want to tell it." We make our own destiny life is 10% what happens to you and 90% how you react to it.
   
 <img src ="matt-stack.github.io/images/becoming.jpg" width="100" height="20">
 
