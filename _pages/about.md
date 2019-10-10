@@ -28,7 +28,7 @@ Projects
   
   Dr. Sunita Chandrasekarana, Dr Rudolf Eigenmann
 
-  Ranking supercomputers by new metrics, SPEC2020 bencmarks
+  The goal of this ongoing project is to implement the new paradigm of ranking supercomputers. FLOPS is the current meassure by various of the top benchmarks and compiled on the [TOP500.org!]("https://www.top500.org/") list. I assisted with the group as a research developing a potential framework for the user interface. Please see [Link] for more information on Dr. Chandrasekaran's work when it becomes formally published!
   
   <img src ="matt-stack.github.io/images/SPEC_PEARC19.pptx.jpg" width="500" height="100">
   
@@ -63,19 +63,19 @@ Fun Facts
   
   * Quiet: The Power of Introverts in a World That Can't Stop Talking, Susan Cain
   
-  The lessons in this book a massive impact on my life I wish I had read it earlier. As an introvert, very few people will tell you it is okay to be quiet. My favorite quote is "Sometimes introverted kids are made to feel freaky for the force of these passions, when in fact studies show that this is the sort of intensity is a prerequisite to talent development".
+  The lessons in this book had a massive impact on my life I wish I had read it earlier. As an introvert, very few people will tell you it is okay to be quiet. My favorite quote from this book is "Sometimes introverted kids are made to feel freaky for the force of these passions, when in fact studies show that this is the sort of intensity is a prerequisite to talent development", as I have definetly had people question the ablitly to focus on one task for hours. Rowing, climbing, backpacking, and swimming are a few of my favorite hobbies, and they all are defined by silence in a way I am drawn to. It lets me be me.
   
 <img src ="matt-stack.github.io/images/quiet.jpg" width="100" height="20">
   
   * The Sixth Extinction: An Unnatural History, Elizabeth Kolbert
   
-  I read this book during my study abroad in New Zealand and it was absolutely fascinating to see some of the elements from the book in person. I went to a Moa exhibit and looked out at one of the few remain kiwi left in our world, and saw bones of giant Moa driven to extiniction by human hands.
+  I read this book during my study abroad in New Zealand and it was absolutely fascinating to see some of the elements from the book in person. I went to a Moa sancurary where I looked out at one of the few remain kiwi left in our world and saw the bones of giant Moa driven to extiniction by human hands. When I saw this and learned more about the history of the southern island, the lessons and warning in The Sixth Extinction were vibrantly clear. 
   
 <img src ="matt-stack.github.io/images/extinction.jpg" width="100" height="20">
   
   * Becoming, Michelle Obama
   
-  This book opened my eyes to another life. My all time favorite quote from this book is "I had nothing or I had everything. It depends in which way you want to tell it." We make our own destiny life is 10% what happens to you and 90% how you react to it.
+  This book opened my eyes to another life entirely different from my own. My all time favorite quote from this book is "I had nothing or I had everything. It depends in which way you want to tell it." Its such a powerful statement that perfectly encapsulates the book. 
   
 <img src ="matt-stack.github.io/images/becoming.jpg" width="100" height="20">
 
