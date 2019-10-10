@@ -18,7 +18,7 @@ Projects
   
   Dr. Sunita Chandrasekaran, Dr Paul Macklin
   
-  BioFVM is a tool from Dr Paul Macklin for scientists to model cellular environments and how they react to single or multiple substrates. Currently BioFVM is parallelized by OpenMP for CPU. My projects goal is to take the code to the GPU with OpenACC to unlock new expansive possiblities for Dr Macklin's mathematical models. I started this project in May of 2018 as a UDel Summer Scholar (research internship position at the university), and am continuing as an Independent Study under the advisement of Dr. Chandrasekaran. I have taken a Parallel Computing class and loved the work I did there, but this was my first real world project! The [Blog] page explores the development of the acceleration project from the start of the process to now!
+  BioFVM is a tool from Dr Paul Macklin for scientists to model cellular environments and how they react to single or multiple substrates. Currently BioFVM is parallelized by OpenMP for CPU. My projects goal is to take the code to the GPU with OpenACC to unlock new expansive possiblities for Dr Macklin's mathematical models. I started this project in May of 2018 as a UDel Summer Scholar (research internship position at the university), and am continuing as an Independent Study under the advisement of Dr. Chandrasekaran. I have taken a Parallel Computing class and loved the work I did there, but this is my first real world project! The [Blog] page explores the development of the acceleration project from the start of the process to now!
   
 <img src ="matt-stack.github.io/images/0001.jpg" width="500" height="100">
   
@@ -47,7 +47,7 @@ Projects
 <img src ="matt-stack.github.io/images/blue-heron_gif.gif" width="200" height="40">
 <img src ="matt-stack.github.io/images/flounder_gif.gif" width="200" height="40">
 
-  See my [GitHub] for all other course work
+  * See my [GitHub] for all other course work
   
 Fun Facts
 ======
@@ -59,7 +59,7 @@ Fun Facts
   
 <img src ="matt-stack.github.io/images/backpacking.jpg" width="400" height="80">
   
-  Fav Books
+  Favorite Books I would recommend to anyone
   
   * Quiet: The Power of Introverts in a World That Can't Stop Talking, Susan Cain
   
