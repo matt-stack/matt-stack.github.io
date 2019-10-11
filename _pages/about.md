@@ -27,11 +27,7 @@ Projects
   Ranking Supercomputers using SPEC HPG Benchmarks
   
   Dr. Sunita Chandrasekarana, Dr Rudolf Eigenmann
-
-  The goal of this ongoing project is to implement the new paradigm of ranking supercomputers. FLOPS is the current meassure by various of the top benchmarks and compiled on the [TOP500.org!]("https://www.top500.org/") list. I assisted with the group as a research developing a potential framework for the user interface. Please see [Link] for more information on Dr. Chandrasekaran's work when it becomes formally published!
-  
-  <img src ="matt-stack.github.io/images/SPEC_PEARC19.pptx.jpg" width="500" height="100">
-  
+    
   * **Classification Tree Educational Tool**
   
   The Classification Tree Educational Tool was developed by my education game development group during my study abroad in Christchurch New Zealand. We were tasked by New Zealand's own computer science education genius Dr Tim Bell to create a simple game to convey a complex computer science concept for a grade school level. My group created a game to explain the general idea of a decision tree and incorporated easy to follow instructions and visuals. We learned how to develop in Unity and created this game in less than one month. Check out the GitHub [here]!
