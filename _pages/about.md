@@ -23,10 +23,7 @@ Projects
 <img src ="matt-stack.github.io/images/0001.jpg" width="500" height="100">
   
   * **VIP-HPC SPEC2020**
-  
-  Ranking Supercomputers using SPEC HPG Benchmarks
-  
-  Dr. Sunita Chandrasekarana, Dr Rudolf Eigenmann
+
     
   * **Classification Tree Educational Tool**
   
@@ -49,8 +46,8 @@ Personal Project
 ======
   I am very interested in realistic rendering, especially roomscapes. I spent a summer while I was ligeguarding learning to render with Blender and even built a pc with the purpose of faster gpu rendering. These shots are from a project to model my old dorm room. 
   
-<img src ="matt-stack.github.io/images/Screenshot (9).png" width="200" height="40">
-<img src ="matt-stack.github.io/images/Screenshot (10).png" width="200" height="40">
+<img src ="matt-stack.github.io/images/Screenshot (9).png" width="400" height="80">
+<img src ="matt-stack.github.io/images/Screenshot (10).png" width="400" height="80">
   
 Fun Facts
 ======
