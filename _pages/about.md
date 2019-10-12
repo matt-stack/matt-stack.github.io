@@ -45,6 +45,13 @@ Projects
 
   * See my [GitHub] for all other course work
   
+Personal Project
+======
+  I am very interested in realistic rendering, especially roomscapes. I spent a summer while I was ligeguarding learning to render with Blender and even built a pc with the purpose of faster gpu rendering. These shots are from a project to model my old dorm room. 
+  
+<img src ="matt-stack.github.io/images/Screenshot (9).png" width="200" height="40">
+<img src ="matt-stack.github.io/images/Screenshot (10).png" width="200" height="40">
+  
 Fun Facts
 ======
   I am a rock climber on the Competative Rock Climbing Team at UDel and I love to boulder every chance I get!
