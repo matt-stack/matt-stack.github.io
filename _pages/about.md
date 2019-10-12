@@ -51,7 +51,7 @@ Personal Project
   
 Fun Facts
 ======
-  I am a rock climber on the Competative Rock Climbing Team at UDel and I love to boulder every chance I get!
+  I am a founding member of Competative Rock Climbing Team at UDel love to compete! I also always look forward to when I can transfer training on indoor walls and hangboards to outside bouldering (and on occasion sport climbing).
   
 <img src ="matt-stack.github.io/images/bouldering.jpg" width="400" height="80">
 
