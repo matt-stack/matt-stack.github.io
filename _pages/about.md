@@ -8,31 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am currently a Computer Science undergraduate at the University of Delaware and I am working in the Computational Research and Programming Lab! I am student to all things computer science, but I have found an affinity for High Performance Computing. I strive to one day be able to work with high performance computing in the field of animation and rendering! For more info about UDel's [CRPL!]("https://crpl.cis.udel.edu/")
+Hello! I am currently a Computer Science undergraduate at the University of Delaware and I am working in the [Computational Research and Programming Lab (CRPL)]("("https://crpl.cis.udel.edu/")")! I am student to all things computer science, but I have found an affinity for High Performance Computing and Animation. I strive to one day be able to work with high performance computing in the field of animation and rendering!
 
 Projects
 ======
-  * **ACC-BioFVM**
+  * **ACC-BioFVM- Undergraduate Research**
+  
+  (Summer 2019 - present)
   
   Acclerating an open source Fintie Volume Method for Biological Problems on GPUs
   
   Dr. Sunita Chandrasekaran, Dr Paul Macklin
   
-  BioFVM is a tool from Dr Paul Macklin for scientists to model cellular environments and how they react to single or multiple substrates. Currently BioFVM is parallelized by OpenMP for CPU. My projects goal is to take the code to the GPU with OpenACC to unlock new expansive possiblities for Dr Macklin's mathematical models. I started this project in May of 2018 as a UDel Summer Scholar (research internship position at the university), and am continuing as an Independent Study under the advisement of Dr. Chandrasekaran. I have taken a Parallel Computing class and loved the work I did there, but this is my first real world project! The [Blog] page explores the development of the acceleration project from the start of the process to now!
+  [BioFVM is a tool from Dr Paul Macklin]("http://mathcancer.org/") for scientists to model cellular environments and how they react to single or multiple substrates. Currently BioFVM is parallelized by OpenMP for CPU. My projects goal is to take the code to the GPU with OpenACC to unlock new expansive possiblities for Dr Macklin's mathematical models. I started this project in May of 2018 as a UDel Summer Scholar (research internship position at the university), and am continuing as an Independent Study under the advisement of Dr. Chandrasekaran. I have taken a Parallel Computing class and loved the work I did there, but this is my first real world project! The [Blog] page explores the development of the acceleration project from the start of the process to now!
   
 <img src ="matt-stack.github.io/images/0001.jpg" width="500" height="100">
   
   * **VIP-HPC SPEC2020**
 
     
-  * **Classification Tree Educational Tool**
+  * **Classification Tree Educational Tool- UDel CISC Study Abroad**
+  
+  (New Zealand, Winter 2019)
   
   The Classification Tree Educational Tool was developed by my education game development group during my study abroad in Christchurch New Zealand. We were tasked by New Zealand's own computer science education genius Dr Tim Bell to create a simple game to convey a complex computer science concept for a grade school level. My group created a game to explain the general idea of a decision tree and incorporated easy to follow instructions and visuals. We learned how to develop in Unity and created this game in less than one month. Check out the GitHub [here]!
   
   <img src ="matt-stack.github.io/images/classification_gif.gif" width="500" height="100">
   
   
-  * **EsturaryVille**
+  * **EsturaryVille- Software Engineering Semester Project**
   
   EsturaryVille is a java game created by my software engineering group for our client the Delaware National Estuarine Research Reserve (DNERR). The goal was to create a friendly game that could be deployed at the vistor center on tablets for grade school kids that would draw their attention and sneakily teach them about the importance of esturaries! We developed 3 esturary-based minigames and an overworld to navigate to the games. Along with the research minigame, I created all the elements for every game from scratch. A few of these animated elements can be seen below. I love animation but have never worked in 2d sprites, let alone animating sprite sheets. Thankfully the internet is a wonderful place for induldging technical passions and learning from scratch. Check out the GitHub for the game [here]!
   
@@ -44,7 +48,7 @@ Projects
   
 Personal Project
 ======
-  I am very interested in realistic rendering, especially roomscapes. I spent a summer while I was ligeguarding learning to render with Blender and even built a pc with the purpose of faster gpu rendering. These shots are from a project to model my old dorm room. 
+  I am very interested in realistic rendering, especially roomscapes. I spent a summer while I was lifeguarding learning to render with Blender and even built a pc with the purpose of faster gpu rendering. These shots are from a project to model my old dorm room. I am fascinated by the computer science + math behind animation and rendering.
   
 <img src ="matt-stack.github.io/images/Screenshot (9).png" width="600" height="120">
 <img src ="matt-stack.github.io/images/Screenshot (10).png" width="600" height="120">
