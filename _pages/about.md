@@ -24,8 +24,8 @@ Projects
   
 <img src ="matt-stack.github.io/images/0001.jpg" width="500" height="100">
   
-  * **VIP-HPC SPEC2020**
-
+  * **VIP-HPC**
+(very secret, check back later for information when it I can say more!)
     
   * **Classification Tree Educational Tool- UDel CISC Study Abroad**
   
