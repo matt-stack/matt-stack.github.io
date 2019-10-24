@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am currently a Computer Science undergraduate at the University of Delaware and I am working in the [Computational Research and Programming Lab (CRPL)]("("https://crpl.cis.udel.edu/")")! I am student to all things computer science, but I have found an affinity for High Performance Computing and Animation. I strive to one day be able to work with high performance computing in the field of animation and rendering!
+Hello! I am currently a Computer Science undergraduate at the University of Delaware and I am working in the [Computational Research and Programming Lab (CRPL)]("https://crpl.cis.udel.edu/")! I am student to all things computer science, but I have found an affinity for High Performance Computing and Animation. I strive to one day be able to work with high performance computing in the field of animation and rendering!
 
 Projects
 ======
