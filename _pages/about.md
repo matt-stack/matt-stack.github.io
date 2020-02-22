@@ -24,7 +24,7 @@ Projects
   
   <img src ="matt-stack.github.io/images/physicell_pic.png" width="300" height="100">
 
-  * **ACC-BioFVM- Undergraduate Research**
+* **ACC-BioFVM- Undergraduate Research**
   
   (Summer 2019 - Winter 2019)
   
