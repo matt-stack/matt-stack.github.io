@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am currently a Computer Science undergraduate at the University of Delaware and I am working in the [Computational Research and Programming Lab (CRPL)](https://crpl.cis.udel.edu/)! I am student to all things computer science, but I have found an affinity for High Performance Computing and Parallel Computing. I strive to one day be able to work with high performance computing in the field of animation and rendering!
+Hello! I am currently a Computer Science undergraduate at the University of Delaware and I am researching in the [Computational Research and Programming Lab (CRPL)](https://crpl.cis.udel.edu/)! I am student to all things computer science, but I have found an affinity for High Performance Computing and Parallel Computing. I strive to one day be able to work with high performance computing in the field of animation and rendering!
 
 Projects
 ======
@@ -58,6 +58,23 @@ This is the poster I presented at the Summer Scholars Symposium in Summer 2019
 <img src ="matt-stack.github.io/images/Scientist_gif.gif" width="200" height="40">
 <img src ="matt-stack.github.io/images/blue-heron_gif.gif" width="200" height="40">
 <img src ="matt-stack.github.io/images/flounder_gif.gif" width="200" height="40">
+
+
+Courses
+======
+This is a list of relevant courses I have taken at the University of Delaware
+  Software Engineering
+  Advanced Software Engineering
+  Operating Systems
+  Parallel Computing
+  Computer Architecture
+  High Performance Computing with Commodity Hardware
+  Computer Networks
+  Database Systems
+  Automata Theory
+  HPC VIP (High Performance Computing Vertically Integrated Projects) I, II, III
+  Discrete Math
+  Linear Algebra
 
   
 Personal Project
