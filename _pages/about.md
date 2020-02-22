@@ -18,9 +18,9 @@ Projects
   
   Acclerating PhysiCell on GPU
   
-  Dr. Sunita Chandrasekaran, Dr Paul Macklin
+  Dr. Sunita Chandrasekaran, Dr Paul Macklin, Robbie Searles
   
-  [BioFVM is a tool from Dr Paul Macklin](http://mathcancer.org/) for scientists to model cellular environments and how they react to single or multiple substrates. Currently BioFVM is parallelized by OpenMP for CPU. My projects goal is to take the code to the GPU with OpenACC to unlock new expansive possiblities for Dr Macklin's mathematical models. I started this project in May of 2018 as a UDel Summer Scholar (research internship position at the university), and am continuing as an Independent Study under the advisement of Dr. Chandrasekaran. I have taken a Parallel Computing class and loved the work I did there, but this is my first real world project! The [Blog](posts/2012/08/blog-post-1/) page explores the development of the acceleration project from the start of the process to now!
+  [PhysiCell](http://physicell.org/) is a robust, scalable code for simulating large systems of cells in 3-D tissues. It uses BioFVM to compute diffusion, and many more features beyone BioFVM for simulating cells and their processes. My work here is to accelerate the system for GPU, while still maintaing portablilty for users without access to GPUs. I am using OpenACC and PGI compiler to target Tesla architecture. My current work is a balance between porting more and more data and methods over to the GPU to ensure minimal data migration between host and device as possible, and creating examples to ensure that no CPU speed is lost in the quest for GPU optimization. The current example (using a scaled down version of PhysiCell until I can port more secretion and uptake data/functions) I am working with saw a very exciting ammount of speedup compared to the current OpenMP version (16 thread), even with taking transfer time into account. Future work might include MPI to further explore multiple node parallelism! This work has been very exciting, and I hope I will be able to continue with High Performance Computing and computer architectures after I graduate!
   
   <img src ="matt-stack.github.io/images/physicell_pic.png" width="300" height="100">
 
@@ -28,7 +28,7 @@ Projects
   
   (Summer 2019 - Winter 2019)
   
-  Acclerating an open source Fintie Volume Method for Biological Problems on GPUs
+  Acclerating an open source Fintie Volume Method for Biological Problems (BioFVM) on GPUs
   
   Dr. Sunita Chandrasekaran, Dr Paul Macklin
   
