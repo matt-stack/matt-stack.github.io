@@ -40,7 +40,7 @@ This is the poster I presented at the Summer Scholars Symposium in Summer 2019
   
   * **VIP-HPC**
   
-(very secret, check back later for information when it I can say more!)
+  (very secret, check back later for information when it I can say more!)
     
   * **Classification Tree Educational Tool- UDel CISC Study Abroad**
   
