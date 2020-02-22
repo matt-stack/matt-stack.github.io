@@ -64,16 +64,27 @@ Courses
 ======
 This is a list of some of the relevant courses I have taken at the University of Delaware:
   Software Engineering/n
+  
   Advanced Software Engineering/n
+  
   Operating Systems
+  
   Parallel Computing
+  
   Computer Architecture
+  
   High Performance Computing with Commodity Hardware
+  
   Computer Networks
+  
   Database Systems
+  
   Automata Theory
+  
   HPC VIP (High Performance Computing Vertically Integrated Projects) I, II, III
+  
   Discrete Math
+  
   Linear Algebra
 
   
