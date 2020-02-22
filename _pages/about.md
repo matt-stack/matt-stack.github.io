@@ -22,7 +22,7 @@ Projects
   
   [BioFVM is a tool from Dr Paul Macklin](http://mathcancer.org/) for scientists to model cellular environments and how they react to single or multiple substrates. Currently BioFVM is parallelized by OpenMP for CPU. My projects goal is to take the code to the GPU with OpenACC to unlock new expansive possiblities for Dr Macklin's mathematical models. I started this project in May of 2018 as a UDel Summer Scholar (research internship position at the university), and am continuing as an Independent Study under the advisement of Dr. Chandrasekaran. I have taken a Parallel Computing class and loved the work I did there, but this is my first real world project! The [Blog](posts/2012/08/blog-post-1/) page explores the development of the acceleration project from the start of the process to now!
   
-  <img src ="matt-stack.github.io/images/physicell_pic.png" width="100" height="100">
+  <img src ="matt-stack.github.io/images/physicell_pic.png" width="300" height="100">
 
   * **ACC-BioFVM- Undergraduate Research**
   
