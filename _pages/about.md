@@ -63,9 +63,9 @@ This is the poster I presented at the Summer Scholars Symposium in Summer 2019
 Courses
 ======
 This is a list of some of the relevant courses I have taken at the University of Delaware:
-  Software Engineering/n
+  Software Engineering
   
-  Advanced Software Engineering/n
+  Advanced Software Engineering
   
   Operating Systems
   
